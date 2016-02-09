@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/Couchbase.Lite/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/cbforest-sharp/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/SQLitePCL.raw/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/Couchbase.Lite/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/cbforest-sharp/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/SQLitePCL.raw/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/Couchbase.Lite.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/cbforest-sharp.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/mark/Projects/Random/Droid/obj/Debug/__library_projects__/SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,5 @@
+/Users/mark/Projects/Random/Random/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/mark/Projects/Random/Random/bin/Debug/Random.dll.mdb
+/Users/mark/Projects/Random/Random/bin/Debug/Random.dll
+/Users/mark/Projects/Random/Random/obj/Debug/Random.dll
+/Users/mark/Projects/Random/Random/obj/Debug/Random.dll.mdb

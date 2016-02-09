@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/startRep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Replication" />
+    <Button
+        android:text="Create Document"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/createDoc" />
+    <Button
+        android:text="Retrieve Document"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/retriveDoc" />
+    <Button
+        android:text="Add Attachment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addAtt" />
+    <Button
+        android:text="Read Attachment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/readAtt" />
+    <Button
+        android:text="Delete Document"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/delDoc" />
+    <Button
+        android:text="Execute Query"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/execQuery" />
+</LinearLayout>
